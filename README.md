@@ -3,10 +3,6 @@
 
 Na pasta `trabalho-paa`:
 
-```bash
-javac -d out src/*.java
-```
-
 ## Executar o menu
 
 ```bash
